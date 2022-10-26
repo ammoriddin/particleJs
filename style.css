@@ -12,3 +12,8 @@ body{
     background-position: center;
 }
 
+.welcome{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
